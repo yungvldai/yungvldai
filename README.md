@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![GitHub](https://img.shields.io/github/followers/yungvldai?label=follow&style=social)](https://github.com/yungvldai)
+[![Twitter: yungvldai](https://img.shields.io/twitter/follow/yungvldai?style=social)](https://twitter.com/yungvldai)
+[![Linkedin: yungvldai](https://img.shields.io/badge/-yungvldai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yungvldai/)](https://www.linkedin.com/in/yungvldai/)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yungvldai&layout=compact&langs_count=5&hide=java,makefile&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yungvldai/yungvldai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
