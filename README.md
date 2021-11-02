@@ -26,9 +26,6 @@
   <a href="https://github.com/yungvldai">
     <img src="https://img.shields.io/github/followers/yungvldai?label=follow&style=social" />
   </a>
-  <a href="https://twitter.com/yungvldai">
-    <img src="https://img.shields.io/twitter/follow/yungvldai?style=social&label=Follow" />
-  </a>
   <a href="https://t.me/yungvldai">
     <!-- badge hack :) -->
     <img src="https://img.shields.io/twitter/url?label=Contact&logo=telegram&style=social&url=https%3A%2F%2Fyungvldai.ru" />
