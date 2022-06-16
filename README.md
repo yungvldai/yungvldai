@@ -1,8 +1,6 @@
 # Hi there 👋
 
- - 🧑🏻‍💻 &nbsp;Working at OneTwoTrip!
- - 🏨 &nbsp;Making the best service
- - Frontend 💙
+## Frontend 💙
 
 <img align="right" width="320em" height="320em" src="https://github.com/yungvldai/yungvldai/blob/master/coder.gif"/>
 
