@@ -13,12 +13,6 @@
 ![React](https://img.shields.io/badge/-React-121212?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-121212?style=flat&logo=git)&nbsp;
 
-## 📊 &nbsp;Analytics
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungvldai&layout=compact&langs_count=5&hide=java,makefile,tex&bg_color=30,121212,121212&title_color=fff&text_color=fff" />
-</p>
-
 <br>
   
 <p align="center">
