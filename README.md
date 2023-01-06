@@ -2,8 +2,6 @@
 
 ## Frontend 💙
 
-<img align="right" width="320em" height="320em" src="https://github.com/yungvldai/yungvldai/blob/master/coder.gif"/>
-
 ## 💡&nbsp;Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-121212?style=flat&logo=HTML5)&nbsp;
