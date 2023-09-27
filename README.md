@@ -1,5 +1,11 @@
 # Hi there 👋
 
+## Visit my [blog](https://vladivanov.me/):
+
+![My blog](https://static.vladivanov.me/uploads/694bfc15-a9e9-4f42-9be7-d33ee4242f8e.webp)
+
+<br>
+
 ![HTML](https://img.shields.io/badge/-HTML-121212?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-121212?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-121212?style=flat&logo=javascript)&nbsp;
