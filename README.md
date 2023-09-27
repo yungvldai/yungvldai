@@ -1,17 +1,6 @@
-# Hi there 👋
+# Hello! 👋 Please, visit my blog:
 
-## Visit my [blog](https://vladivanov.me/):
-
-![My blog](https://static.vladivanov.me/uploads/694bfc15-a9e9-4f42-9be7-d33ee4242f8e.webp)
-
-<br>
-
-![HTML](https://img.shields.io/badge/-HTML-121212?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-121212?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-121212?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-121212?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-121212?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-121212?style=flat&logo=git)&nbsp;
+[![My blog](https://static.vladivanov.me/uploads/694bfc15-a9e9-4f42-9be7-d33ee4242f8e.webp)](https://vladivanov.me/)
 
 <br>
   
